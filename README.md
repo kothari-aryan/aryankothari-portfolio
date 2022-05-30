@@ -1,3 +1,3 @@
 # Aryan Kothari Portfolio
 
-Hey! Welcome to my protfolio. Its on the way.
+Hey! Welcome to my protfolio website. Its coming soon.
