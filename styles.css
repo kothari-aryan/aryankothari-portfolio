@@ -127,3 +127,15 @@ footer {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.text-justify {
+    text-align: justify;
+}
+
+.company-name {
+    text-align: left;
+}
+
+.company-period {
+    text-align: right;
+}
