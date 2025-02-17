@@ -134,8 +134,10 @@ footer {
 
 .company-name {
     text-align: left;
+    display: inline;
 }
 
 .company-period {
     text-align: right;
+    display: inline;
 }
