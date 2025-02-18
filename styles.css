@@ -141,3 +141,8 @@ footer {
     display: inline;
     float: right;
 }
+
+.project-title {
+    color: var(--primary-color);
+    text-align: left;
+}
