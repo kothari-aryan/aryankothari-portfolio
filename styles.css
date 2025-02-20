@@ -146,3 +146,8 @@ footer {
 hr {
     margin: 0px;
 }
+
+.mail {
+    text-align: center;
+    margin-top: 0.5rem;
+}
