@@ -105,7 +105,7 @@ body {
 
 footer {
     background-color: var(--primary-color);
-    padding: 2rem 1rem;
+    padding: 2rem 1rem 1rem 1rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1.5rem;
@@ -148,6 +148,5 @@ hr {
 }
 
 .mail {
-    text-align: center;
     margin-top: 0.5rem;
 }
